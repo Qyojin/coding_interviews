@@ -3,7 +3,7 @@
 * Given an sorted integer array, find the indices of the greatest negative element
 * and the smallest positive element.
 *
-* Follow up: what if the array is unsorted?
+* Follow up: what if the array is unsorted? Time & space complexity?
 */
 
 
